@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="temperature_format">%s°</string>
+    <string name="temperature_celsius">%s °C</string>
+    <string name="high_temp">H: %s°c</string>
+    <string name="low_temp">L: %s°c</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
